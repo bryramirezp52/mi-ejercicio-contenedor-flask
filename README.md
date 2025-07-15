@@ -20,7 +20,7 @@ Asegúrate de tener **Docker instalado y en ejecución** en tu sistema.
 
 1.  **Clona este repositorio:**
     ```bash
-    git clone [https://github.com/bryramirezp52/mi-ejercicio-contenedor-flask.git](https://github.com/bryramirezp52/mi-ejercicio-contenedor-flask.git)
+    git clone https://github.com/bryramirezp52/mi-ejercicio-contenedor-flask.git
     cd mi-ejercicio-contenedor-flask
     ```
 
